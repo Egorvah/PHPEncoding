@@ -1,0 +1,23 @@
+{
+    "name": "egorvakh/phpencoding",
+    "description": "",
+    "authors": [
+        {
+            "name": "Egor Vakhrushev",
+            "email": "egorvakh@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Egorvakh\\Encoding\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
