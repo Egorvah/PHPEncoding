@@ -3,6 +3,7 @@
 Detect encoding: windows-1251 and utf-8
 
 ### Install
+composer
 ```
 "egorvakh/phpencoding": "dev-master"
 ```
