@@ -16,7 +16,7 @@
             "src/migrations"
         ],
         "psr-0": {
-            "Egorvakh\\Encoding\\": "src/"
+            "Egorvakh\\PHPEncoding\\": "src/"
         }
     },
     "minimum-stability": "stable"
